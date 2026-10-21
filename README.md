@@ -1,5 +1,10 @@
 # ChemScientist AI: SE(3)-Equivariant Continuous-Filter SchNet & Conformal Molecular Intelligence
 
+[![CI](https://github.com/dhrubchatterjee16-lang/chem-scientist-ai/actions/workflows/ci.yml/badge.svg)](https://github.com/dhrubchatterjee16-lang/chem-scientist-ai/actions)
+[![Release](https://img.shields.io/github/v/release/dhrubchatterjee16-lang/chem-scientist-ai)](https://github.com/dhrubchatterjee16-lang/chem-scientist-ai/releases)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Python: 3.10+](https://img.shields.io/badge/python-3.10%20%7C%203.11%20%7C%203.12%20%7C%203.13-blue.svg)](https://www.python.org/)
 [![Hugging Face Spaces](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-chem--scientist--ai-yellow)](https://huggingface.co/spaces/dhrubchatterjee/chem-scientist-ai)
