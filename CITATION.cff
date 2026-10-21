@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "If you use ChemScientist AI in your research, please cite it as below."
+authors:
+  - family-names: "Chatterjee"
+    given-names: "Dhrub"
+title: "ChemScientist AI: SE(3)-Equivariant Continuous-Filter SchNet & Conformal Molecular Intelligence"
+version: 1.0.0
+date-released: 2026-10-20
+url: "https://github.com/dhrubchatterjee16-lang/chem-scientist-ai"
+keywords:
+  - geometric-deep-learning
+  - schnet
+  - equivariance
+  - molecular-dynamics
+  - ai-for-science
